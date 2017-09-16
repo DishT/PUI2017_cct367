@@ -5,7 +5,7 @@
 
 # Cowork
 1. Merge file with Yuwen
-Indepent
+**Indepent
 2. Set up repository
 3. Set up the local machine alias
 4. Create a reproducible research
