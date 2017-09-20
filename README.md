@@ -6,9 +6,9 @@
 <pre><code>alias pui2017="cd $PUI2017"
 </code></pre>
 
-![ScreenShot2.jpg](./screenshots/ScreenShot2.png)
+![ScreenShot2.jpg](HW1_cct367/screenshots/ScreenShot2.png)
 3. Check the short cut is working by pwd
-![Alt text](./screenshots/ScreenShot1.png "Set up Alias pui2017")
+![Alt text](HW1_cct367/screenshots/ScreenShot1.png "Set up Alias pui2017")
 
 # HW1 Outline
 1. Set up the repository and pratice the git functions on GitHub
