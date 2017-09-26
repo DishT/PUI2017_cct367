@@ -20,7 +20,7 @@ import pandas as pd
 
 
 def write_the_file(bus,bus_line_code):
-    output = open('{}.csv'.format(bus_line_code), 'w')
+    output = open('{}'.format(bus_file), 'w')
 
     output.write("Latitude,Longitude,Stop Name,Stop Status" + "\n")
 
@@ -42,12 +42,13 @@ def write_the_file(bus,bus_line_code):
 
 
 # STEP1. Make sure the argument correct
-if not len(sys.argv) == 3:
+if not len(sys.argv) == 4:
     print("Invailid number of argument. Run as: python.py <MTA_KEY> <BUS_LINE>")
     sys.exit()
 
 key = sys.argv[1]
 bus_line_code = sys.argv[2]
+bus_file = sys.argv[3]
 
 
 # Get the Arguments from command line
