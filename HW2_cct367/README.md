@@ -28,7 +28,7 @@ Package
 # Cowork
 1. Maintain the .py for both Python2 and Python3 with **YuWen**
 2. Discuss with **YuWen** about how to slove the column name problem which contains a lot of space
-3. Discuss how to connect the datahub to cusp with **Vivian**
+3. Discuss how to connect the datahub to cusp with **YuKun**
 
 # Independent
 1. Assignment 1 & 2 & 3
