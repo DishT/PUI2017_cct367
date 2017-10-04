@@ -8,17 +8,24 @@
 2. Plot the means with histogram plot
 
 
-**Assignment 2 : Hypothsis**
+**Assignment 2 : Hypothsis with Citi Bike data**
 ****
 1. Set up the Null hypothsis and Alternative hypothsis
 2. Read CSV via Pandas
 3. Subset the data
 4. Plot the data via matplotlib
+
 Package
 
 	from __future__ import print function
 	import requests
-	import json
+	
+	
+	
+**Assignment 3 : Hypothsis with MTA and Bus data**
+****
+ 
+0. Count the Z value
 
 
 # Cowork
