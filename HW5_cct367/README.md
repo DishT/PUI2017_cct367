@@ -1,37 +1,32 @@
 # Homework 5
 
 # Outline
-**Assignment 1: Classmate Review**
+**Assignment 1: Poisson and Z**
 ****
 0. Create a Poisson Distribution with size 1000
-1. Write the comments
-2. Folk and push on their repository
+1. Plot it
 
 
-**Assignment 2 : Test Table**
+
+**Assignment 2 : AD and KS test**
 ****
-1. Read the articles
-2. Fill in the table
+1. Create the sample
+2. Run AD, KS test
+3. Plot the growing mean
 	
 	
-**Assignment 3 : Reproduce the analysis of the Hard to Employ program in NY**
+**Assignment 3 : Analysis of real data**
 ****
  
 0. Reproduce the test
 
-**Assignment 4 : Tests of correlation using the scipy package with citibike data**
-****
- 
-0. Download Data
-1. Clean Data
-2. Group Data
-3. Run the test
+
 
 
 # Cowork
-1. Assignment 2 with **yt1369, yl5240**
-2. Assignment 3 discuss with **YuKun** about the GeoCode
+1. Assignment 2 discuss with **YuKun** about generate the distribution
+2. Assignment 3 discuss with **01** about the legend of plotting
 
 
 # Independent
-1. Assignment 1 & 2 & 3 & 4
+1. Assignment 1 & 2 & 3
