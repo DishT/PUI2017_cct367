@@ -35,3 +35,16 @@ Add on the
 Can make the caption shorter to read.
 
 
+# FBB 
+jsut stating the plot was not clear is not sufficient! why it is unclear? what are the aesthetic flaws? you mention again confusion in the aesthetic comments, while that really pertains to confusion
+
+this:
+
+"Add on the 
+
+1. date period, 
+2. location on behind the plot."
+
+I really do not know what it means!
+
+8/10
