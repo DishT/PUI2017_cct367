@@ -35,4 +35,7 @@ Color connection:
 If change the color to green, I think it would be better.
 
 
+# FBB ok
+missing: legends too small, the plot is blurry. 
+
 
